@@ -1,6 +1,3 @@
-Here is a potential README writeup based on your project details:
-
----
 
 # AtliQ Mart Promotion Analysis Project
 
