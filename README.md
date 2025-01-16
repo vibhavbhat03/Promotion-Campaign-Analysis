@@ -51,6 +51,4 @@ The primary objectives of this project are:
 
 This project provides a foundation for AtliQ Mart's data-driven decision-making in promotional planning. Further exploration is encouraged to enhance the scope of insights and maximize business outcomes.
 
---- 
 
-Let me know if you want any changes or additions!
